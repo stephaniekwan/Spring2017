@@ -1,0 +1,9 @@
+import textExcel.Cell;
+
+public class EmptyCell implements Cell {
+
+	public EmptyCell() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
